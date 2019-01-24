@@ -1,0 +1,11 @@
+.outer-main{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../images/paper-home-background.jpg");
+    border: 1px solid red;
+}
+
+.inner-center{
+    width: 100%;
+    padding: ;
+}
