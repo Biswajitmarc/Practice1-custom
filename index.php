@@ -14,19 +14,8 @@
     <title>Custom Project V1</title>
   </head>
   <body class="outer-main">
-    <div class="container h-100">
-        <div class="row align-items-center h-100">
-            <div class="col-6 mx-auto">
-                <div class="jumbotron text-center">
-                    <h1 class="display-4">WELCOME TO OUR DIGITAL HOME</h1>
-                    <p class="lead">
-                        <a class="btn btn-primary btn-lg" href="" role="button">GO To Registration</a>
-                    </p>
-                </div>
-            </div>
-        </div>
+    <div class="">
     </div>
-        
     
 
     <!-- Optional JavaScript -->
